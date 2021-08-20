@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ParkingAssistant</string>
+    <string name="find_my_car">Find My Car</string>
+    <string name="intro">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s,</string>
+    <string name="lets_get_started">Let\'s get started</string>
+    <string name="i_parked_car">I\'ve parked the car here</string>
+    <string name="not_parked_yet">Not parked yet</string>
+    <string name="not_parked_yet_description">You didn’t mark the place of your car yet. Please when you done parking, mark the car place on the map and we’ll save it for you</string>
+    <string name="take_me_to_car">Take me to the car</string>
+    <string name="i_found_car">I\'ve found the car</string>
+    <string name="you_parked">You’ve parked</string>
+    <string name="you_parked_description">We did save the place of your car you can safely leave the area</string>
+    <string name="directing_you">Directing you to the car</string>
+    <string name="directing_you_description">Don\'t worry your parking spot has been saved. Now directing you to that spot...</string>
+    <string name="settings">Settings</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="permission_not_available">Current location permission denied. See this FAQ with information about why we need this permission. Please, grant us access on the Settings screen.</string>
+    <string name="ok">Ok!</string>
+    <string name="nope">Nope</string>
+    <string name="request_permission">Your current location is important for this app. Please grant the permission.</string>
+    <string name="car_location">Car parking spot</string>
+</resources>
